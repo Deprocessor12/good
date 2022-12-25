@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    font-size: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+.rt{
+    display: flex;
+}
+
+.det{
+    background-color: azure;
+    height: 300px;
+    width: 280px;
+    position: relative;
+    display: flex;
+    margin: 4px;
+}
+.bi{
+    background-color: azure;
+    height: 300px;
+    width: 280px;
+    position: relative;
+    display: flex;
+    margin: 4px;
+}
+.go{
+    background-color: azure;
+    height: 300px;
+    width: 280px;
+    position: relative;
+    display: flex;
+    margin: 4px;
+}
